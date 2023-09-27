@@ -1,7 +1,4 @@
-- Hi, I’m @XiaoShi-root
-- I’m interested in programming
-- I’m currently learning python
-- How to reach me : oh it's a secret 
+<h1>interesting</h1>
 
 <!---
 XiaoShi-root/XiaoShi-root is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
